@@ -1,3 +1,5 @@
+<img src="https://ceomichaelhr.com/wp-content/uploads/2022/08/background-banners-technology-1024x256.jpg" height="100px" width="100%">
+
 - 👋 Hi, I’m Nasih P S
 - 👀 I’m interested in GenAI
 - 🌱 I’m currently learning Python, ReactJS
